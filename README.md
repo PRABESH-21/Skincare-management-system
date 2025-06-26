@@ -13,6 +13,9 @@ Output: Creates invoices and purchase forms as text files.
 File Structure:
 
 main.py: Program entry point and menu.
+
 read.py: Loads inventory and creates default data if needed.
+
 operation.py: Handles restocking and sales.
+
 write.py: Saves inventory and generates transaction files.
