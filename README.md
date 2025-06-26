@@ -1,1 +1,1 @@
-# Skincare-management-system
+# skincare-management-system
